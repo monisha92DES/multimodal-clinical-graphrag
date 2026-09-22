@@ -1,0 +1,9 @@
+torch>=2.0.0
+torchvision
+grad-cam
+neo4j
+langgraph
+langchain-core
+langchain-community
+Pillow
+matplotlib
